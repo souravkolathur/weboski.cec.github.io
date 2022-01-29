@@ -36,7 +36,7 @@ main{
 }
 .middle{
     flex:1;
-    position:relative;
+
     
     
 }
@@ -46,8 +46,8 @@ main{
 }
 .img{
     position: absolute;
-    left: 50%;
-    top: 50%;
+    left: 34.8%;
+    top: 38%;
     
 }
 footer{
