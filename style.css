@@ -4,6 +4,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     color:#444444;
+    position:relative;
 }
 header{
     display:flex;
@@ -53,7 +54,7 @@ footer{
     background: #FFC531;
     width:100%;
     margin:auto;
-    position:fixed;
+    position:absolute;
     min-height:100px;
     text-align: center;
     padding-top:7px;
